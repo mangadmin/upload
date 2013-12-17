@@ -6,7 +6,6 @@
 * @author       Erwin Heldy G (http://www.facebook.com/erwinheldy)
 * @copyright    Copyright (c) 2013
 * @link         http://github.com/mangadmin/upload
-* @version      1.0
 */
 
 class Upload
